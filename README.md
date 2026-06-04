@@ -1,4 +1,4 @@
-- Hi, I'm @pianahartina (linkedin.com/in/pianahartina)
+- Hi, I'm @pianahartina 
 - I am a bachelor of science in physics, from University of Lampung, graduate at 12 January 2021
 - I have experience in several fields including financial administration, taxation, teaching and marketing
 - Now, I'm interested in web programming
