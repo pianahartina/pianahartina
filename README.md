@@ -3,7 +3,7 @@
 - I have experience in several fields including financial administration, taxation, teaching and marketing
 - Now, I'm interested in web programming
 - I'm learning about Python, HTML, CSS, SQL, JavaScript, PHP and many others
-- How to contact me can be via email: pianahartina474@gmail.com
+
 
 <!---
 pianahartina/pianahartina is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
